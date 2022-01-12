@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Deathstar
+Description=Join the Darkside!
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/deathstar
+ScriptFile=/usr/share/plymouth/themes/deathstar/deathstar.script
